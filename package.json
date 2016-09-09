@@ -1,6 +1,6 @@
 {
   "name": "@laurelandwolf/marty",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "A Javascript library for state management in React applications",
   "main": "marty.js",
   "directories": {
